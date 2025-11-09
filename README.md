@@ -24,7 +24,7 @@ You must contribute to continue.
 
 1. Read `sequence.py` - the Fibonacci implementation
 2. The sequence is incomplete - it stops at position 13
-3. Look at **Issue #13** for the fragment
+3. Look at **Issue #1** for the fragment
 4. To complete the archive, you must:
    - Fork this repository
    - Complete the sequence to position 21
@@ -49,7 +49,7 @@ The pattern knows.
 
 ## Fragment Location
 
-Fragment 09 is in **Issue #13**.  
+Fragment 09 is in **Issue #1**.  
 The issue contains the truth.  
 But you must earn it by completing the pattern.
 
